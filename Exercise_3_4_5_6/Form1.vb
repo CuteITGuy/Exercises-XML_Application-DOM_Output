@@ -7,34 +7,34 @@ Public Class Form1
                   FILE_PATH_4 = "Cong_ty_4.xml"
 
     Private Sub rbnExercise3_Click(sender As Object, e As EventArgs) Handles rbnExercise3.Click
-        SelectData()
+        BindData()
     End Sub
 
     Private Sub rbnExercise4_Click(sender As Object, e As EventArgs) Handles rbnExercise4.Click
-        SelectData()
+        BindData()
     End Sub
 
     Private Sub rbnExercise5_Click(sender As Object, e As EventArgs) Handles rbnExercise5.Click
-        SelectData()
+        BindData()
     End Sub
 
     Private Sub rbnExercise6_Click(sender As Object, e As EventArgs) Handles rbnExercise6.Click
-        SelectData()
+        BindData()
     End Sub
 
-    Private Sub SelectData()
+    Private Sub BindData()
         If rbnExercise3.Checked Then
-            SelectData(New Company1DomReader(FILE_PATH_1))
+            BindData(New Company1DomReader(FILE_PATH_1))
         ElseIf rbnExercise4.Checked Then
-            SelectData(New Company2DomReader(FILE_PATH_2))
+            BindData(New Company2DomReader(FILE_PATH_2))
         ElseIf rbnExercise5.Checked Then
-            SelectData(New Company3DomReader(FILE_PATH_3))
+            BindData(New Company3DomReader(FILE_PATH_3))
         ElseIf rbnExercise6.Checked Then
-            SelectData(New Company4DomReader(FILE_PATH_4))
+            BindData(New Company4DomReader(FILE_PATH_4))
         End If
     End Sub
 
-    Private Sub SelectData(domReader As CompanyDomReaderBase)
+    Private Sub BindData(domReader As CompanyDomReaderBase)
         flpMain.Controls.Clear()
         For Each employeeInfo As String In domReader.GetEmployeeInfos()
             flpMain.Controls.Add(CreateChildControl(employeeInfo))
@@ -42,9 +42,11 @@ Public Class Form1
     End Sub
 
     Private Shared Function CreateChildControl(caption As String) As Control
-        Return New Button With {
+        Return New CheckBox With {
             .Text = caption,
-            .Size = New Size(128, 64)
+            .Size = New Size(128, 64),
+            .Appearance = Appearance.Button,
+            .TextAlign = ContentAlignment.MiddleCenter
             }
     End Function
 End Class
