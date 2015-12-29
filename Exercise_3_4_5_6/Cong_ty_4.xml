@@ -1,0 +1,91 @@
+﻿<GOC> 
+  <DON_VI ID="1" Ten="Đơn vị A" />
+  <DON_VI ID="2" Ten="Đơn vị B" />
+  <DON_VI ID="3" Ten="Đơn vị C" />
+  <DON_VI ID="4" Ten="Đơn vị D" />
+  <NGOAI_NGU ID="1" Ten="Anh" />
+  <NGOAI_NGU ID="2" Ten="Pháp" />
+  <NGOAI_NGU ID="3" Ten="Đức" />
+  <NGOAI_NGU ID="4" Ten="Ý" />
+  <NGOAI_NGU ID="5" Ten="Nhật" />
+  <NGOAI_NGU ID="6" Ten="Nga" />
+  <NGOAI_NGU ID="7" Ten="Brazil" />
+  <NHAN_VIEN ID="1" Ho_ten="Bùi kỳ Hồng" Gioi_tinh="false" Ngay_sinh="19/06/1966" CMND="039079997" Muc_luong="5800000" Dia_chi="AAA " ID_DON_VI="1" />
+  <NHAN_VIEN ID="2" Ho_ten="Hoa đắc Quyên" Gioi_tinh="false" Ngay_sinh="17/06/1983" CMND="000406092" Muc_luong="2600000" Dia_chi="37/72 P Phường 3- Quận 1- Tỉnh/Tp PP&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="3" Ho_ten="Lý bích Tần" Gioi_tinh="true" Ngay_sinh="15/07/1983" CMND="014712267" Muc_luong="8800000" Dia_chi="94 X Phường 6- Quận 9- Tỉnh/Tp XX&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="4" Ho_ten="Bùi kỳ Mai" Gioi_tinh="true" Ngay_sinh="19/11/1975" CMND="091622404" Muc_luong="4200000" Dia_chi="854 A Phường 3- Quận 8- Tỉnh/Tp AA&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="5" Ho_ten="Bành sơn Thiện" Gioi_tinh="true" Ngay_sinh="12/09/1983" CMND="088636734" Muc_luong="5800000" Dia_chi="633 D Phường 9- Quận 14- Tỉnh/Tp DD&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="6" Ho_ten="Ôn chiến Thành" Gioi_tinh="false" Ngay_sinh="09/03/1983" CMND="008905370" Muc_luong="4400000" Dia_chi="234 Q Phường 9- Quận 11- Tỉnh/Tp QQ&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="7" Ho_ten="Trần đình đắc Toàn" Gioi_tinh="true" Ngay_sinh="18/11/1991" CMND="091671588" Muc_luong="9800000" Dia_chi="127 J Phường 6- Quận 3- Tỉnh/Tp JJ&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="8" Ho_ten="Quách đình ngọc Châu" Gioi_tinh="false" Ngay_sinh="17/05/1984" CMND="019932002" Muc_luong="4000000" Dia_chi="429 K Phường 8- Quận 2- Tỉnh/Tp KK&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="9" Ho_ten="Phạm hửu Mai" Gioi_tinh="false" Ngay_sinh="01/11/1968" CMND="011995120" Muc_luong="3000000" Dia_chi="439 S Phường 7- Quận 5- Tỉnh/Tp SS&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="10" Ho_ten="Phí kiên Thắng" Gioi_tinh="false" Ngay_sinh="08/09/1972" CMND="085752395" Muc_luong="3000000" Dia_chi="7 U Phường 8- Quận 6- Tỉnh/Tp UU&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="11" Ho_ten="Liên bảo Tấn" Gioi_tinh="true" Ngay_sinh="29/05/1971" CMND="064878713" Muc_luong="8800000" Dia_chi="63 W Phường 3- Quận 6- Tỉnh/Tp WW&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="12" Ho_ten="Đinh nam sơn Tài" Gioi_tinh="false" Ngay_sinh="21/11/1965" CMND="067150893" Muc_luong="10000000" Dia_chi="1 L Phường 6- Quận 6- Tỉnh/Tp LL&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="13" Ho_ten="Ôn triệu minh Châu" Gioi_tinh="true" Ngay_sinh="19/09/1969" CMND="056554594" Muc_luong="2200000" Dia_chi="6 C Phường 2- Quận 1- Tỉnh/Tp CC&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="14" Ho_ten="Bạch quỳnh Bảo" Gioi_tinh="false" Ngay_sinh="27/03/1992" CMND="029835502" Muc_luong="9600000" Dia_chi="33 R Phường 5- Quận 14- Tỉnh/Tp RR&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="15" Ho_ten="Ngô tắc Khánh" Gioi_tinh="true" Ngay_sinh="28/12/1990" CMND="043850625" Muc_luong="7600000" Dia_chi="7 M Phường 9- Quận 9- Tỉnh/Tp MM&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="16" Ho_ten="Bành thị Hùng" Gioi_tinh="false" Ngay_sinh="03/07/1979" CMND="065392436" Muc_luong="3000000" Dia_chi="12 B Phường 7- Quận 9- Tỉnh/Tp BB&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="17" Ho_ten="Mai lâm thúy Hạnh" Gioi_tinh="false" Ngay_sinh="30/12/1985" CMND="062445978" Muc_luong="3000000" Dia_chi="6/97 F Phường 9- Quận 14- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="18" Ho_ten="Triệu bích Hướng" Gioi_tinh="true" Ngay_sinh="19/02/1981" CMND="042154429" Muc_luong="8400000" Dia_chi="51 Y Phường 3- Quận 14- Tỉnh/Tp YY&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="19" Ho_ten="Công hà Kháng" Gioi_tinh="false" Ngay_sinh="16/01/1988" CMND="004313886" Muc_luong="2400000" Dia_chi="87/32 A Phường 3- Quận 13- Tỉnh/Tp AA&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="20" Ho_ten="Lê minh quang Viễn" Gioi_tinh="false" Ngay_sinh="01/08/1973" CMND="060912605" Muc_luong="6800000" Dia_chi="5 L Phường 8- Quận 11- Tỉnh/Tp LL&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="21" Ho_ten="Nguyễn thanh thảo Nguyên" Gioi_tinh="true" Ngay_sinh="30/01/1972" CMND="079646726" Muc_luong="6400000" Dia_chi="928 T Phường 3- Quận 3- Tỉnh/Tp TT&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="22" Ho_ten="Đinh hồng Giang" Gioi_tinh="false" Ngay_sinh="08/09/1979" CMND="086138254" Muc_luong="9800000" Dia_chi="275 K Phường 5- Quận 8- Tỉnh/Tp KK&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="23" Ho_ten="Triệu ngọc Nhung" Gioi_tinh="false" Ngay_sinh="12/03/1991" CMND="023970428" Muc_luong="2800000" Dia_chi="6/14 A Phường 3- Quận 4- Tỉnh/Tp AA&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="24" Ho_ten="Hà văn Lan" Gioi_tinh="true" Ngay_sinh="06/08/1985" CMND="009110866" Muc_luong="2200000" Dia_chi="369 S Phường 5- Quận 1- Tỉnh/Tp SS&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="25" Ho_ten="Hứa bùi Quyền" Gioi_tinh="true" Ngay_sinh="27/09/1986" CMND="010374236" Muc_luong="4800000" Dia_chi="82/47 S Phường 6- Quận 14- Tỉnh/Tp SS&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="26" Ho_ten="Trầm gia Thạch" Gioi_tinh="true" Ngay_sinh="07/03/1969" CMND="036165787" Muc_luong="9000000" Dia_chi="6 V Phường 1- Quận 12- Tỉnh/Tp VV&#xD;&#xA;" ID_DON_VI="4" />
+   
+  <KHA_NANG ID="1" ID_NHAN_VIEN="1" ID_NGOAI_NGU="7" />
+  <KHA_NANG ID="2" ID_NHAN_VIEN="1" ID_NGOAI_NGU="3" />
+  <KHA_NANG ID="3" ID_NHAN_VIEN="2" ID_NGOAI_NGU="2" />
+  <KHA_NANG ID="4" ID_NHAN_VIEN="3" ID_NGOAI_NGU="6" />
+  <KHA_NANG ID="5" ID_NHAN_VIEN="3" ID_NGOAI_NGU="5" />
+  <KHA_NANG ID="6" ID_NHAN_VIEN="4" ID_NGOAI_NGU="5" />
+  <KHA_NANG ID="7" ID_NHAN_VIEN="4" ID_NGOAI_NGU="6" />
+  <KHA_NANG ID="8" ID_NHAN_VIEN="4" ID_NGOAI_NGU="7" />
+  <KHA_NANG ID="9" ID_NHAN_VIEN="5" ID_NGOAI_NGU="7" />
+  <KHA_NANG ID="10" ID_NHAN_VIEN="6" ID_NGOAI_NGU="3" />
+  <KHA_NANG ID="11" ID_NHAN_VIEN="6" ID_NGOAI_NGU="4" />
+  <KHA_NANG ID="12" ID_NHAN_VIEN="6" ID_NGOAI_NGU="2" />
+  <KHA_NANG ID="13" ID_NHAN_VIEN="7" ID_NGOAI_NGU="2" />
+  <KHA_NANG ID="14" ID_NHAN_VIEN="8" ID_NGOAI_NGU="3" />
+  <KHA_NANG ID="15" ID_NHAN_VIEN="8" ID_NGOAI_NGU="4" />
+  <KHA_NANG ID="16" ID_NHAN_VIEN="9" ID_NGOAI_NGU="7" />
+  <KHA_NANG ID="17" ID_NHAN_VIEN="9" ID_NGOAI_NGU="3" />
+  <KHA_NANG ID="18" ID_NHAN_VIEN="10" ID_NGOAI_NGU="1" />
+  <KHA_NANG ID="19" ID_NHAN_VIEN="10" ID_NGOAI_NGU="2" />
+  <KHA_NANG ID="20" ID_NHAN_VIEN="10" ID_NGOAI_NGU="3" />
+  <KHA_NANG ID="21" ID_NHAN_VIEN="11" ID_NGOAI_NGU="7" />
+  <KHA_NANG ID="22" ID_NHAN_VIEN="12" ID_NGOAI_NGU="1" />
+  <KHA_NANG ID="23" ID_NHAN_VIEN="12" ID_NGOAI_NGU="2" />
+  <KHA_NANG ID="24" ID_NHAN_VIEN="12" ID_NGOAI_NGU="3" />
+  <KHA_NANG ID="25" ID_NHAN_VIEN="13" ID_NGOAI_NGU="2" />
+  <KHA_NANG ID="26" ID_NHAN_VIEN="13" ID_NGOAI_NGU="5" />
+  <KHA_NANG ID="27" ID_NHAN_VIEN="14" ID_NGOAI_NGU="6" />
+  <KHA_NANG ID="28" ID_NHAN_VIEN="14" ID_NGOAI_NGU="5" />
+  <KHA_NANG ID="29" ID_NHAN_VIEN="14" ID_NGOAI_NGU="2" />
+  <KHA_NANG ID="30" ID_NHAN_VIEN="15" ID_NGOAI_NGU="1" />
+  <KHA_NANG ID="31" ID_NHAN_VIEN="16" ID_NGOAI_NGU="4" />
+  <KHA_NANG ID="32" ID_NHAN_VIEN="16" ID_NGOAI_NGU="2" />
+  <KHA_NANG ID="33" ID_NHAN_VIEN="17" ID_NGOAI_NGU="5" />
+  <KHA_NANG ID="34" ID_NHAN_VIEN="17" ID_NGOAI_NGU="4" />
+  <KHA_NANG ID="35" ID_NHAN_VIEN="17" ID_NGOAI_NGU="7" />
+  <KHA_NANG ID="36" ID_NHAN_VIEN="18" ID_NGOAI_NGU="5" />
+  <KHA_NANG ID="37" ID_NHAN_VIEN="18" ID_NGOAI_NGU="1" />
+  <KHA_NANG ID="38" ID_NHAN_VIEN="19" ID_NGOAI_NGU="5" />
+  <KHA_NANG ID="39" ID_NHAN_VIEN="20" ID_NGOAI_NGU="3" />
+  <KHA_NANG ID="40" ID_NHAN_VIEN="20" ID_NGOAI_NGU="4" />
+  <KHA_NANG ID="41" ID_NHAN_VIEN="21" ID_NGOAI_NGU="5" />
+  <KHA_NANG ID="42" ID_NHAN_VIEN="22" ID_NGOAI_NGU="3" />
+  <KHA_NANG ID="43" ID_NHAN_VIEN="22" ID_NGOAI_NGU="4" />
+  <KHA_NANG ID="44" ID_NHAN_VIEN="22" ID_NGOAI_NGU="1" />
+  <KHA_NANG ID="45" ID_NHAN_VIEN="23" ID_NGOAI_NGU="6" />
+  <KHA_NANG ID="46" ID_NHAN_VIEN="24" ID_NGOAI_NGU="3" />
+  <KHA_NANG ID="47" ID_NHAN_VIEN="24" ID_NGOAI_NGU="7" />
+  <KHA_NANG ID="48" ID_NHAN_VIEN="24" ID_NGOAI_NGU="5" />
+  <KHA_NANG ID="49" ID_NHAN_VIEN="25" ID_NGOAI_NGU="1" />
+  <KHA_NANG ID="50" ID_NHAN_VIEN="26" ID_NGOAI_NGU="3" />
+  <KHA_NANG ID="51" ID_NHAN_VIEN="26" ID_NGOAI_NGU="2" />
+</GOC>
